@@ -1,0 +1,15 @@
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\ThreeSidesOfTriangle\bin\Debug\net10.0\ThreeSidesOfTriangle.exe
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\ThreeSidesOfTriangle\bin\Debug\net10.0\ThreeSidesOfTriangle.deps.json
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\ThreeSidesOfTriangle\bin\Debug\net10.0\ThreeSidesOfTriangle.runtimeconfig.json
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\ThreeSidesOfTriangle\bin\Debug\net10.0\ThreeSidesOfTriangle.dll
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\ThreeSidesOfTriangle\bin\Debug\net10.0\ThreeSidesOfTriangle.pdb
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\ThreeSidesOfTriangle\obj\Debug\net10.0\ThreeSidesOfTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\ThreeSidesOfTriangle\obj\Debug\net10.0\ThreeSidesOfTriangle.AssemblyInfoInputs.cache
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\ThreeSidesOfTriangle\obj\Debug\net10.0\ThreeSidesOfTriangle.AssemblyInfo.cs
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\ThreeSidesOfTriangle\obj\Debug\net10.0\ThreeSidesOfTriangle.csproj.CoreCompileInputs.cache
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\ThreeSidesOfTriangle\obj\Debug\net10.0\ThreeSidesOfTriangle.sourcelink.json
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\ThreeSidesOfTriangle\obj\Debug\net10.0\ThreeSidesOfTriangle.dll
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\ThreeSidesOfTriangle\obj\Debug\net10.0\refint\ThreeSidesOfTriangle.dll
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\ThreeSidesOfTriangle\obj\Debug\net10.0\ThreeSidesOfTriangle.pdb
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\ThreeSidesOfTriangle\obj\Debug\net10.0\ThreeSidesOfTriangle.genruntimeconfig.cache
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\ThreeSidesOfTriangle\obj\Debug\net10.0\ref\ThreeSidesOfTriangle.dll
