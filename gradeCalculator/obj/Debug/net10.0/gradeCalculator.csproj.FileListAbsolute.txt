@@ -1,0 +1,14 @@
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\gradeCalculator\bin\Debug\net10.0\gradeCalculator.exe
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\gradeCalculator\bin\Debug\net10.0\gradeCalculator.deps.json
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\gradeCalculator\bin\Debug\net10.0\gradeCalculator.runtimeconfig.json
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\gradeCalculator\bin\Debug\net10.0\gradeCalculator.dll
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\gradeCalculator\bin\Debug\net10.0\gradeCalculator.pdb
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\gradeCalculator\obj\Debug\net10.0\gradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\gradeCalculator\obj\Debug\net10.0\gradeCalculator.AssemblyInfoInputs.cache
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\gradeCalculator\obj\Debug\net10.0\gradeCalculator.AssemblyInfo.cs
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\gradeCalculator\obj\Debug\net10.0\gradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\gradeCalculator\obj\Debug\net10.0\gradeCalculator.dll
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\gradeCalculator\obj\Debug\net10.0\refint\gradeCalculator.dll
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\gradeCalculator\obj\Debug\net10.0\gradeCalculator.pdb
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\gradeCalculator\obj\Debug\net10.0\gradeCalculator.genruntimeconfig.cache
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment1-11165084\gradeCalculator\obj\Debug\net10.0\ref\gradeCalculator.dll
